@@ -1,0 +1,1 @@
+export const ESTATE_TYPE_FILTER_KEY = "estate_type"
